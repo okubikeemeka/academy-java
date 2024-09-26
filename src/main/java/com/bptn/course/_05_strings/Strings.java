@@ -3,6 +3,6 @@ package com.bptn.course._05_strings;
 public class Strings {
 
 	public static void main(String[] args) {
-	Scanner scanner = scanner.new (Systemin);	
+	Scanner scanner = new Scanner (System.in);	
 	}
 }
