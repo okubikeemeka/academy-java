@@ -14,7 +14,7 @@ public class ArrayTeachback {
 	//Creating an Array (use of 'new' operator)
 	// int[] position = new int[5] declares and creates at the same time
 	// 5 specifies the size of this array (5 elements). No specific values
-	position = new int[5];
+	 position = new int[5];
 	
 	//Initialize the arrays. 
 	// int[] position = {5,8,3,2,9}; initializes this too at the same time

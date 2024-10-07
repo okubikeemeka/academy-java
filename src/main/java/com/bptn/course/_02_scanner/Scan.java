@@ -18,6 +18,7 @@ public class Scan {
 		
 		System.out.println("What's your senior quote?");
 		String quote = scanner.nextLine();
+			
 		
 		System.out.print("Your name is " + name + ", your age is " + age );
 		System.out.println(" and your senior quote is: " + quote);

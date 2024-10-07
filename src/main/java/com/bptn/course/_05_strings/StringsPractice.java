@@ -11,6 +11,9 @@ public class StringsPractice {
 				System.out.println(userName.equals("testuser"));
 				System.out.println(userName.trim());
 				
+	}
+}
+				
 				
 				
 				

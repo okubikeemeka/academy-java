@@ -37,7 +37,7 @@ public class SwitchStatement {
 					System.out.println("Take your pepsi");
 				} else {System.out.println("Try again");}
 						break;
-				
+				//Finish up the cases
 				case 5: System.out.println("Thank you for stopping by");
 						break;
 				default:System.out.println("Invalid Choice!");
