@@ -1,4 +1,4 @@
-package com.bptn.course._wk2_05_big_data_friday;
+package com.bptn.course._wk2_05_big_coding_friday;
 
 class Employee {
     // Instance variable to store salary
