@@ -1,4 +1,4 @@
-package week_02_four_In_a_row_Game;
+package com.bptn.course._wk2_07_four_in_a_row_challenge;
 
 /*The player class is concerned with describing a player and things that relate to it. It keeps track of the name of a player, 
 the order of the player in relation to other players in the game, and the move the player may want to make 

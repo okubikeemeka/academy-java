@@ -1,4 +1,4 @@
-package bug_Monday_Wk_2;
+package com.bptn.course._wk2_cars;
 
  class Car {
 	  // Declare private instance variables
