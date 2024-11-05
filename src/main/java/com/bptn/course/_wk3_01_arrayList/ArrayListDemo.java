@@ -1,6 +1,5 @@
 package com.bptn.course._wk3_01_arrayList;
 
-
 import java.util.ArrayList;
 
 public class ArrayListDemo {
